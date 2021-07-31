@@ -1,7 +1,8 @@
 ### Tech Stack
 
 <p>
-  <img align="left" alt="svelte" width="100px" src="./public/svelte.svg"></p>
+  <img align="left" alt="svelte" width="100px" src="./public/svelte.svg">
+</p>
 
 ---
 
