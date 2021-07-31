@@ -10,7 +10,7 @@
 
 ## GitHub Repos Search
 
-<img alt="webpage picture" width="40vw" src="public\svelte-demo-app-pic.PNG">
+<img alt="webpage picture" width="400px" src="public\svelte-demo-app-pic.PNG">
 
 ---
 
